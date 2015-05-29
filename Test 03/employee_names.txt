@@ -1,0 +1,30 @@
+George Thomas
+12.0
+Melinda Harris
+12.0
+Norah Jeddery
+23.0
+Jorge Ortiz
+34.0
+Samantha Gregory
+45.0
+Tanvi Gupta
+56.0
+William Edwards
+67.0
+Tania Gomez
+89.4
+Erica Sanders
+89.2
+Gracie Lou Freebush
+87.4
+Tony Montana
+12.0
+Obi-Wan Kenobi
+23.0
+Cruella De Vil
+54.0
+Marty McFly
+3.0
+Napoleon Dynamite
+56.0
